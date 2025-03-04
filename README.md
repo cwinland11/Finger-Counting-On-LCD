@@ -32,3 +32,7 @@ Step 6: Upload the Code to the Arduino Write a simple Arduino program that liste
 Step 7: Test Your System With everything set up, you can now test your system. Hold up your hand in front of the camera and see if the correct number of fingers is displayed on the LCD screen. If the prediction is incorrect, you may need to adjust the model or camera setup to improve accuracy.
 
 Personal Notes: I was going to add the confidence percentage to the bottom row of the LCD, but I couldn't get it to work, any ideas would be appreciated. 
+
+YOUTUBE VIDEO EXPLAINING CIRCUIT
+https://www.youtube.com/shorts/QeD9Y8SqoaE
+
